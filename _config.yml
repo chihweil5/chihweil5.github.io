@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Doopy's tracks"
+title                    : "Follow in my Footsteps"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chih-Wei Lin"
@@ -292,3 +292,10 @@ defaults:
       comments: true
       share: true
       related: true
+
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: "light" # "light" (default), "dark"
