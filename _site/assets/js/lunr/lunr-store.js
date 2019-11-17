@@ -6,6 +6,11 @@ var store = [{
         "teaser":null},{
         "title": "US Open",
         "excerpt":"今年剛好在紐約有機會去看四大公開賽之一的us open，趁著費爸退休前一定要看到一場他的比賽！這次老天眷顧超幸運的剛好買到費爸和小威的場次，賽程出來後感覺真的跟中樂透一樣，嘴巴都笑得合不起來。 大滿貫小科普 大滿貫(The Grand Slam tournaments)是職業網球賽事中四個最重要，積分和獎金最多的比賽，每個比賽的場地也不同，包含： 一月中的澳網 Australian Open - 硬地 六月的法網 French Open - 紅土 七月的溫網 Wimbledon - 草地 九月的美網 US Open - 硬地 這次去的就是在紐約舉辦的美網拉～ Arthur Ashe Stadium 美網 2019/08/19 - 2019/09/08 美國人真的滿熱衷各個球賽的，球賽都弄得很熱鬧，比賽前一個禮拜還有免費的fan week，有很多小活動XD，當天還有很多紀念品店，各種贊助，像賓士就投了很多錢，Grey Goose還特別出了us open版本的酒 Honey Deuce Grey Goose How to make Honey Deuce 1.5 parts Grey...","categories": [],
-        "tags": [],
+        "tags": [2019,"Event"],
         "url": "http://localhost:4000/US-Open/",
+        "teaser":null},{
+        "title": "Boston - Day 1",
+        "excerpt":"龍蝦之旅 – 初訪波士頓 9/14-9/15 期待很久的波士頓2天一夜！ 交通 (NYC &lt;-&gt; Boston) 紐約到波士頓很方便有長途巴士可以搭，美國比較常見的巴士就是Greyhound 和 Megabus，票價大約$20上下，但這次跟朋友一起開車去，車程大約四個半小時，所以其實這次在波士頓時間也很短暫，必須要二訪才行哈哈。 住宿 這次住在Hampton Inn and Suites Boston/Waltham，因為市區的住宿都巨貴，剛好這次開車去就選了一個離 Boston Downtown 20分鐘車程的地方，飯店很新住起來很舒服，早餐也滿多選項的！讚讚 波士頓小簡介 波士頓為麻薩諸塞州（麻州）的最大城，也是新英倫區（New England）人口最多的城市，波士頓很小，佔地只有232.1平方公里，卻有高達69萬居民，人口密度很高，但還是不及台北和曼哈頓哈哈。 美國的東北區又被稱作New England 地區，包含了六個州： Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, 和 Connecticut 波士頓蘊含許多歷史故事，是美國最古老的城市之一，1630年，由英國的清教徒移民（Puritan）建立，歷史課本學到的一些美國獨立戰爭就是在波士頓爆發的： 波士頓大屠殺 (Boston Massacre) 波士頓傾茶事件 (Boston Tea Party) 邦克山戰役 (Battle of Bunker Hill) 波士頓之圍...","categories": [],
+        "tags": [2019,"Travel"],
+        "url": "http://localhost:4000/Boston/",
         "teaser":null}]
