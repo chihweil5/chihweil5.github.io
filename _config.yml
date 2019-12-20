@@ -20,7 +20,7 @@ title                    : "Follow in my Footsteps"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chih-Wei Lin"
-description              : "My blog"
+description              : "Chih-Wei's blog"
 url                      : "https://chihweil5.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chihweil5/chihweil5.github.io"
