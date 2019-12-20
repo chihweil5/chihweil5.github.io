@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"龍蝦之旅 – 初訪波士頓 9/14-9/15 期待很久的波士頓2天一夜！ 交通 (NYC &lt;-&gt; Boston) 紐約到波士頓很方便有長途巴士可以搭，美國比較常見的巴士就是Greyhound 和 Megabus，票價大約$20上下，但這次跟朋友一起開車去，車程大約四個半小時，所以其實這次在波士頓時間也很短暫，必須要二訪才行哈哈。 住宿 這次住在Hampton Inn and Suites Boston/Waltham，因為市區的住宿都巨貴，剛好這次開車去就選了一個離 Boston Downtown 20分鐘車程的地方，飯店很新住起來很舒服，早餐也滿多選項的！讚讚 波士頓小簡介 波士頓為麻薩諸塞州（麻州）的最大城，也是新英倫區（New England）人口最多的城市，波士頓很小，佔地只有232.1平方公里，卻有高達69萬居民，人口密度很高，但還是不及台北和曼哈頓哈哈。 美國的東北區又被稱作New England 地區，包含了六個州： Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, 和 Connecticut 波士頓蘊含許多歷史故事，是美國最古老的城市之一，1630年，由英國的清教徒移民（Puritan）建立，歷史課本學到的一些美國獨立戰爭就是在波士頓爆發的： 波士頓大屠殺 (Boston Massacre) 波士頓傾茶事件 (Boston Tea Party) 邦克山戰役 (Battle of Bunker Hill) 波士頓之圍...","categories": [],
         "tags": [2019,"Travel"],
         "url": "http://localhost:4000/Boston/",
+        "teaser":null},{
+        "title": "Boston - Day 2",
+        "excerpt":"龍蝦之旅 – 初訪波士頓 Part2 第二天是校園之旅 講到波士頓，絕對會想到兩所神之學校 - 哈佛 和 麻省理工學院 交通 這兩所學校位於 Cambridge，與Boston隔著 Charles River，從Boston Downtown開車大概10分鐘車程。兩間學校也都可以搭紅線T地鐵到達，哈佛在Harvard Square 站，MIT Kendall/MIT 站。 Harvard University 踏進夢幻學校哈佛，內心真的是波濤洶湧，書香氣息都來了，跟著覺得自己都變聰明了哈哈哈，這輩子考不上的學校就來好好逛逛吧！ 首先來到的是歷史重鎮，全哈佛最古老的區 - Harvard Yard，看哈佛雕像跟圖書館 John Harvard Statue，他有個稱呼是”statue of three lies“，因為刻在雕像上面的介紹是錯的！ How?! 他不是 John Harvard 本人 雕像建於1884年，但哈佛死於1638年，而當時無法找到任何一個哈佛的畫像，所以就找了一位模特兒(Sherman Hoar) John Harvard 並不是哈佛大學的創辦人 雕像上寫他是founder但其實他是贊助者，他捐了一半的財產以及他的藏書，超過400本 哈佛大學不是建於1638年 很接近但是哈佛大學其實建於1636年 傳說摸他的左腳會考好運喔～看他閃亮的左腳就知道了 John Harvard Statue...","categories": [],
+        "tags": [2019,"Travel"],
+        "url": "http://localhost:4000/Boston2/",
         "teaser":null}]
