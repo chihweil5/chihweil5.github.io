@@ -18,4 +18,9 @@ var store = [{
         "excerpt":"龍蝦之旅 – 初訪波士頓 Part2 第二天是校園之旅 講到波士頓，絕對會想到兩所神之學校 - 哈佛 和 麻省理工學院 交通 這兩所學校位於 Cambridge，與Boston隔著 Charles River，從Boston Downtown開車大概10分鐘車程。兩間學校也都可以搭紅線T地鐵到達，哈佛在Harvard Square 站，MIT Kendall/MIT 站。 Harvard University 踏進夢幻學校哈佛，內心真的是波濤洶湧，書香氣息都來了，跟著覺得自己都變聰明了哈哈哈，這輩子考不上的學校就來好好逛逛吧！ 首先來到的是歷史重鎮，全哈佛最古老的區 - Harvard Yard，看哈佛雕像跟圖書館 John Harvard Statue，他有個稱呼是”statue of three lies“，因為刻在雕像上面的介紹是錯的！ How?! 他不是 John Harvard 本人 雕像建於1884年，但哈佛死於1638年，而當時無法找到任何一個哈佛的畫像，所以就找了一位模特兒(Sherman Hoar) John Harvard 並不是哈佛大學的創辦人 雕像上寫他是founder但其實他是贊助者，他捐了一半的財產以及他的藏書，超過400本 哈佛大學不是建於1638年 很接近但是哈佛大學其實建於1636年 傳說摸他的左腳會考好運喔～看他閃亮的左腳就知道了 John Harvard Statue...","categories": [],
         "tags": [2019,"Travel"],
         "url": "http://localhost:4000/Boston2/",
+        "teaser":null},{
+        "title": "紐約生活小記 - 1",
+        "excerpt":"2019的最後一週，鳥仔弘儒來拜訪，因為天氣太冷讓我們大家都懶得出門觀光，趁著假日到家裡附近的科博館晃晃。 一想到紐約，就想到博物館，今天不介紹那些著名的博物館(之後有機會再寫)，走一個平民路線，今天的主角是…登登登登 New York Hall of Science 俗稱 科博館！ New York Hall of Science 營業時間： Monday – Friday: 9:30 am – 5 pm Saturday – Sunday: 10 am – 6 pm 票價： Adults (ages 18+): $16 Children (ages 2 – 17): $13 Students (with college ID): $13 Senior Citizens (age...","categories": [],
+        "tags": [2019,"Event","Museum"],
+        "url": "http://localhost:4000/New-York-Life/",
         "teaser":null}]
