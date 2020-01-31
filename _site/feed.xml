@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-31T00:27:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Follow in my Footsteps</title><subtitle>Chih-Wei's blog</subtitle><author><name>Chih-Wei Lin</name></author><entry><title type="html">紐約生活小記 - 1</title><link href="http://localhost:4000/New-York-Life/" rel="alternate" type="text/html" title="紐約生活小記 - 1" /><published>2019-12-30T00:00:00-05:00</published><updated>2019-12-30T00:00:00-05:00</updated><id>http://localhost:4000/New-York-Life</id><content type="html" xml:base="http://localhost:4000/New-York-Life/">&lt;p&gt;2019的最後一週，鳥仔弘儒來拜訪，因為天氣太冷讓我們大家都懶得出門觀光，趁著假日到家裡附近的科博館晃晃。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-30T23:11:53-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Follow in my Footsteps</title><subtitle>Chih-Wei's blog</subtitle><author><name>Chih-Wei Lin</name></author><entry><title type="html">美國工作簽證H-1B面試</title><link href="http://localhost:4000/H1B-Interview/" rel="alternate" type="text/html" title="美國工作簽證H-1B面試" /><published>2020-01-30T00:00:00-05:00</published><updated>2020-01-30T00:00:00-05:00</updated><id>http://localhost:4000/H1B-Interview</id><content type="html" xml:base="http://localhost:4000/H1B-Interview/">&lt;p&gt;H-1B的資料網上都很齊全了，在這邊就簡單分享一下個人經驗:)&lt;/p&gt;
+
+&lt;p&gt;H-1B抽籤是每年四月，第一輪抽籤是抽65000位(學士+碩士以上)，第二輪從碩士以上學位中再抽出20000人&lt;/p&gt;
+
+&lt;h2 id=&quot;申請timeline&quot;&gt;申請timeline&lt;/h2&gt;
+
+&lt;p&gt;以下是公司回報的timeline&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;12/21/2018 Initial Information&lt;/li&gt;
+  &lt;li&gt;01/28/2019 LCA (labor condition application) 這個階段的目的是證明H1B的員工申請職稱符合標準&lt;/li&gt;
+  &lt;li&gt;03/29/2019 File the case (Premium Processing)&lt;/li&gt;
+  &lt;li&gt;04/15/2019 Congratulations! 抽到了！&lt;/li&gt;
+  &lt;li&gt;06/05/2019 Request for Evidence(RFE) 要補件嗚嗚&lt;/li&gt;
+  &lt;li&gt;08/07/2019 RFE submitted&lt;/li&gt;
+  &lt;li&gt;08/19/2019 Case approved&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;通過之後會收到I-797，抽到之後當年的10/1簽證正式生效，F1身份直接轉成H1B，H1B一次三年，到期之後還可以延長一次，所以H1B總共最多可以六年。&lt;/p&gt;
+
+&lt;p&gt;幸運的第一次就抽到了，接下來就要計劃回台灣的時間以及到AIT面試簽證，
+要記得早點計畫才可以早點預約面試！&lt;a href=&quot;https://www.ustraveldocs.com/tw_zh/tw-niv-typework.asp&quot;&gt;AIT官網傳送門&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;11/04/2019 預約面試&lt;/li&gt;
+  &lt;li&gt;01/14/2020 面試&lt;/li&gt;
+  &lt;li&gt;01/16/2020 收到護照+簽證&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;預約面試&quot;&gt;預約面試&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;上AIT網站填DS-160&lt;/li&gt;
+  &lt;li&gt;繳費付款 (收據要留好)&lt;/li&gt;
+  &lt;li&gt;上AIT網站預約面試&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;攜帶物品&quot;&gt;攜帶物品&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;預約單(兩張條碼的那頁，我當天沒印到這張就給警衛看電子檔)&lt;/li&gt;
+  &lt;li&gt;DS-160確認頁&lt;/li&gt;
+  &lt;li&gt;有效護照 + 所有舊護照&lt;/li&gt;
+  &lt;li&gt;六個月內彩色照片(可以跟當初上傳的不同張，以現場的為準，AIT一樓也有快速照相機)&lt;/li&gt;
+  &lt;li&gt;繳費收據&lt;/li&gt;
+  &lt;li&gt;I-797&lt;/li&gt;
+  &lt;li&gt;$69 (從去年開始H1B要當場再繳69鎂)&lt;/li&gt;
+  &lt;li&gt;Offer Letter(沒看)&lt;/li&gt;
+  &lt;li&gt;Resume (沒看)&lt;/li&gt;
+  &lt;li&gt;畢業證書 (沒看)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以上僅供參考，還是以確認信內容為主。&lt;/p&gt;
+
+&lt;p&gt;可背包包，進去前會經過安檢，手機要關網路藍牙或關機&lt;/p&gt;
+
+&lt;h2 id=&quot;面試流程&quot;&gt;面試流程&lt;/h2&gt;
+
+&lt;p&gt;當場路線安排滿清楚的，印象中要去三個booth，第一個是檢查資料，再來按壓指紋，最後才是面試，面試通過之後會請你去旁邊繳費再拿收據回來，恭喜你完成拉！&lt;/p&gt;
+
+&lt;p&gt;我的面試很快也滿順利～謝天謝地&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What’s your job duty&lt;/li&gt;
+  &lt;li&gt;What kind of app do you work on&lt;/li&gt;
+  &lt;li&gt;What’s your major&lt;/li&gt;
+  &lt;li&gt;Are you aware of “Rights and Protections for Temporary Workers”&lt;/li&gt;
+  &lt;li&gt;問了一下公司是不是contractor&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You are all set!&lt;/p&gt;</content><author><name>Chih-Wei Lin</name></author><category term="2020" /><category term="Visa" /><summary type="html">H-1B的資料網上都很齊全了，在這邊就簡單分享一下個人經驗:)</summary></entry><entry><title type="html">紐約生活小記 - 1</title><link href="http://localhost:4000/New-York-Life/" rel="alternate" type="text/html" title="紐約生活小記 - 1" /><published>2019-12-30T00:00:00-05:00</published><updated>2019-12-30T00:00:00-05:00</updated><id>http://localhost:4000/New-York-Life</id><content type="html" xml:base="http://localhost:4000/New-York-Life/">&lt;p&gt;2019的最後一週，鳥仔弘儒來拜訪，因為天氣太冷讓我們大家都懶得出門觀光，趁著假日到家裡附近的科博館晃晃。&lt;/p&gt;
 
 &lt;p&gt;一想到紐約，就想到博物館，今天不介紹那些著名的博物館(之後有機會再寫)，走一個平民路線，今天的主角是…登登登登&lt;/p&gt;
 
@@ -97,7 +167,13 @@
 
 &lt;figure&gt;
      &lt;img src=&quot;../assets/images/post5/13.jpg&quot; /&gt;
- &lt;/figure&gt;</content><author><name>Chih-Wei Lin</name></author><category term="2019" /><category term="Event" /><category term="Museum" /><summary type="html">2019的最後一週，鳥仔弘儒來拜訪，因為天氣太冷讓我們大家都懶得出門觀光，趁著假日到家裡附近的科博館晃晃。</summary></entry><entry><title type="html">波士頓兩天一日 - Day 2</title><link href="http://localhost:4000/Boston2/" rel="alternate" type="text/html" title="波士頓兩天一日 - Day 2" /><published>2019-12-16T00:00:00-05:00</published><updated>2019-12-16T00:00:00-05:00</updated><id>http://localhost:4000/Boston2</id><content type="html" xml:base="http://localhost:4000/Boston2/">&lt;blockquote&gt;
+ &lt;/figure&gt;
+
+&lt;p&gt;想到小時候也很常玩樂高，不知曾幾何時小時候天真的享受一件事的心好像已經慢慢消失了，住在國外常常會問自己想要的生活是什麼，興趣又是什麼，雖然目前還沒找到答案，但是生活中的大小事都是充滿驚奇阿，只是要勇敢踏出去，接觸不同的人事物，這大概是我2020年的大目標，活的更充實一點！&lt;/p&gt;
+
+&lt;p&gt;2019 I survived. 2020 I am coming!&lt;/p&gt;
+
+&lt;p&gt;Happy New Year&lt;/p&gt;</content><author><name>Chih-Wei Lin</name></author><category term="2019" /><category term="Event" /><category term="Museum" /><summary type="html">2019的最後一週，鳥仔弘儒來拜訪，因為天氣太冷讓我們大家都懶得出門觀光，趁著假日到家裡附近的科博館晃晃。</summary></entry><entry><title type="html">波士頓兩天一日 - Day 2</title><link href="http://localhost:4000/Boston2/" rel="alternate" type="text/html" title="波士頓兩天一日 - Day 2" /><published>2019-12-16T00:00:00-05:00</published><updated>2019-12-16T00:00:00-05:00</updated><id>http://localhost:4000/Boston2</id><content type="html" xml:base="http://localhost:4000/Boston2/">&lt;blockquote&gt;
   &lt;p&gt;龍蝦之旅 – 初訪波士頓 Part2&lt;/p&gt;
 &lt;/blockquote&gt;
 

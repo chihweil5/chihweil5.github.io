@@ -23,4 +23,9 @@ var store = [{
         "excerpt":"2019的最後一週，鳥仔弘儒來拜訪，因為天氣太冷讓我們大家都懶得出門觀光，趁著假日到家裡附近的科博館晃晃。 一想到紐約，就想到博物館，今天不介紹那些著名的博物館(之後有機會再寫)，走一個平民路線，今天的主角是…登登登登 New York Hall of Science 俗稱 科博館！ New York Hall of Science 營業時間： Monday – Friday: 9:30 am – 5 pm Saturday – Sunday: 10 am – 6 pm 票價： Adults (ages 18+): $16 Children (ages 2 – 17): $13 Students (with college ID): $13 Senior Citizens (age...","categories": [],
         "tags": [2019,"Event","Museum"],
         "url": "http://localhost:4000/New-York-Life/",
+        "teaser":null},{
+        "title": "美國工作簽證H-1B面試",
+        "excerpt":"H-1B的資料網上都很齊全了，在這邊就簡單分享一下個人經驗:) H-1B抽籤是每年四月，第一輪抽籤是抽65000位(學士+碩士以上)，第二輪從碩士以上學位中再抽出20000人 申請timeline 以下是公司回報的timeline 12/21/2018 Initial Information 01/28/2019 LCA (labor condition application) 這個階段的目的是證明H1B的員工申請職稱符合標準 03/29/2019 File the case (Premium Processing) 04/15/2019 Congratulations! 抽到了！ 06/05/2019 Request for Evidence(RFE) 要補件嗚嗚 08/07/2019 RFE submitted 08/19/2019 Case approved 通過之後會收到I-797，抽到之後當年的10/1簽證正式生效，F1身份直接轉成H1B，H1B一次三年，到期之後還可以延長一次，所以H1B總共最多可以六年。 幸運的第一次就抽到了，接下來就要計劃回台灣的時間以及到AIT面試簽證， 要記得早點計畫才可以早點預約面試！AIT官網傳送門 11/04/2019 預約面試 01/14/2020 面試 01/16/2020 收到護照+簽證 預約面試 上AIT網站填DS-160 繳費付款 (收據要留好) 上AIT網站預約面試 攜帶物品 預約單(兩張條碼的那頁，我當天沒印到這張就給警衛看電子檔) DS-160確認頁...","categories": [],
+        "tags": [2020,"Visa"],
+        "url": "http://localhost:4000/H1B-Interview/",
         "teaser":null}]
