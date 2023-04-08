@@ -4,6 +4,7 @@ toc_label: "H1B"
 title: 美國工作簽證H-1B面試
 summary: H-1B申請面試
 tags: [2020, Visa]
+lang: zh
 ---
 
 H-1B的資料網上都很齊全了，在這邊就簡單分享一下個人經驗:)

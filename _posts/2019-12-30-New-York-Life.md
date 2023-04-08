@@ -5,6 +5,7 @@ toc_icon: "shoe-prints"
 title: 紐約生活小記 - 1
 summary: New York Hall of Science, The Art of the Brick
 tags: [2019, Event, Museum]
+lang: zh
 ---
 
 2019的最後一週，鳥仔弘儒來拜訪，因為天氣太冷讓我們大家都懶得出門觀光，趁著假日到家裡附近的科博館晃晃。

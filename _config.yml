@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Follow in my Footsteps"
+title                    : "肚皮生活小記錄"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chih-Wei Lin"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Chih-Wei Lin"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I am from Taiwan."
+  bio              : "Hello!"
   location         : "New York, USA"
   email            :
   links:
