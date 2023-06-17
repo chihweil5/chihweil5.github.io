@@ -82,6 +82,16 @@ Timeline:
 
 - 03/07/2023 Biometric appointment notice received from USCIS
 - 03/15/2023 Fingerprints received
-- TBD
 
-先更新到這拉～
+I-765
+- 05/10/2023 New Card is Being Produced
+- 05/11/2023 Case Was Approved
+- 05/17/2023 Card Was Mailed To Me
+
+I-485
+- 05/15/2023 New Card is Being Produced
+- 05/16/2023 Case Was Approved
+- 05/18/2023 Card Was Mailed To Me 
+- 05/24/2023 Card Was Delivered To Me By The Post Office
+
+蓋完指紋大約兩個月就收到卡片了！漫長的綠卡之旅正式告一段落～
